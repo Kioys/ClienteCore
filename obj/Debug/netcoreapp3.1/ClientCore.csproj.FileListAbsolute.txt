@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.AssemblyInfo.cs
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.exe
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.deps.json
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.runtimeconfig.json
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.runtimeconfig.dev.json
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.dll
+C:\Users\PC\source\repos\ClientCore\bin\Debug\netcoreapp3.1\ClientCore.pdb
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.dll
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.pdb
+C:\Users\PC\source\repos\ClientCore\obj\Debug\netcoreapp3.1\ClientCore.genruntimeconfig.cache
