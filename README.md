@@ -1,0 +1,2 @@
+# ClienteCore
+Cliente multiplataforma
